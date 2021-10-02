@@ -5,3 +5,7 @@
 
 ## Desenvolvimento
 * As bibliotecas usadas foram, principalmente, win32com e pandas.
+
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
